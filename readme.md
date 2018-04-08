@@ -1,4 +1,4 @@
-#一个由python开发的简单爬虫
+#  #一个由python开发的简单爬虫
 
 
 ----------
@@ -28,4 +28,6 @@ py的网页下载器：**urllib2**->py官方基础模块，支持直接的URL下
 1. urllib2下载网页方法1：最简洁：urllib2.urlopen(url地址)
 2. urllib2下载网页方法2：添加data、http header
 3. urllib2下载网页方法3：添加特殊情景的处理器(SSL层 or COOKIE等)
-4. 
+
+
+
