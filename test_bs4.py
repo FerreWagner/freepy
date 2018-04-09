@@ -1,0 +1,3 @@
+import bs4
+# 在python安装目录下的scripts下查找是否安装了python包管理工具pip，如果存在，则直接切换至scripts目录使用命令行安装bs4包：pip install beautifulsoup4
+print(bs4)
