@@ -77,7 +77,7 @@ import url_manager
 ### 网页编码
 
 
-
+# -- coding: utf-8 --
 
 class SpiderMain(object):
 

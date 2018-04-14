@@ -24,7 +24,7 @@
 #         new_url = self.new_urls.pop()
 #         self.old_urls.add(new_url)
 #         return new_url
-
+# -- coding: utf-8 --
 class UrlManager(object):
     def __init__(self):
         self.new_urls = set()

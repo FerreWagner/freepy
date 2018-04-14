@@ -1,4 +1,3 @@
-
 class HtmlOutputer(object):
     def __int__(self):
         self.datas = []
